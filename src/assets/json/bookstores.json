@@ -1,0 +1,31 @@
+{
+  "name": "Chapter House Books",
+  "abn": "84 291 637 502",
+  "founded": 2004,
+  "headquarters": "187 Grattan Street, Carlton VIC 3053",
+  "phone": "03 9347 6611",
+  "email": "hello@chapterhousebooks.com.au",
+  "totalStores": 4,
+  "countries": ["Australia"],
+  "storeTypes": {
+    "flagship": 1,
+    "neighbourhood": 2,
+    "airport": 1
+  },
+  "topSellers": [
+    "Pride and Prejudice",
+    "Nineteen Eighty-Four",
+    "Cloudstreet",
+    "Beloved",
+    "Murder on the Orient Express"
+  ],
+  "openingHours": {
+    "monday": { "open": "09:00", "close": "18:00" },
+    "tuesday": { "open": "09:00", "close": "18:00" },
+    "wednesday": { "open": "09:00", "close": "18:00" },
+    "thursday": { "open": "09:00", "close": "21:00" },
+    "friday": { "open": "09:00", "close": "21:00" },
+    "saturday": { "open": "10:00", "close": "17:00" },
+    "sunday": { "open": "11:00", "close": "16:00" }
+  }
+}

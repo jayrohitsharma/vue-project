@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "Jane Austen",
+    "birthYear": 1775,
+    "deathYear": 1817,
+    "nationality": "English",
+    "genres": ["Romance", "Social satire"],
+    "famousWorks": [
+      { "title": "Pride and Prejudice", "year": 1813, "pages": 432 },
+      { "title": "Sense and Sensibility", "year": 1811, "pages": 409 },
+      { "title": "Emma", "year": 1815, "pages": 474 }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "George Orwell",
+    "birthYear": 1903,
+    "deathYear": 1950,
+    "nationality": "English",
+    "genres": ["Dystopian fiction", "Political satire", "Essay"],
+    "famousWorks": [
+      { "title": "Nineteen Eighty-Four", "year": 1949, "pages": 328 },
+      { "title": "Animal Farm", "year": 1945, "pages": 112 },
+      { "title": "Homage to Catalonia", "year": 1938, "pages": 314 }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Agatha Christie",
+    "birthYear": 1890,
+    "deathYear": 1976,
+    "nationality": "English",
+    "genres": ["Mystery", "Crime fiction", "Detective fiction"],
+    "famousWorks": [
+      { "title": "Murder on the Orient Express", "year": 1934, "pages": 256 },
+      { "title": "Death on the Nile", "year": 1937, "pages": 288 },
+      { "title": "And Then There Were None", "year": 1939, "pages": 272 }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Tim Winton",
+    "birthYear": 1960,
+    "deathYear": null,
+    "nationality": "Australian",
+    "genres": ["Literary fiction", "Australian literature"],
+    "famousWorks": [
+      { "title": "Cloudstreet", "year": 1991, "pages": 426 },
+      { "title": "Breath", "year": 2008, "pages": 218 },
+      { "title": "Dirt Music", "year": 2001, "pages": 480 }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Toni Morrison",
+    "birthYear": 1931,
+    "deathYear": 2019,
+    "nationality": "American",
+    "genres": ["Literary fiction", "African-American literature"],
+    "famousWorks": [
+      { "title": "Beloved", "year": 1987, "pages": 324 },
+      { "title": "Song of Solomon", "year": 1977, "pages": 337 },
+      { "title": "The Bluest Eye", "year": 1970, "pages": 206 }
+    ]
+  }
+]
