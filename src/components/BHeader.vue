@@ -11,7 +11,7 @@
             active-class="active"
             aria-current="page"
           >
-            Home (Week 11)
+            Home (Week 12)
           </router-link>
         </li>
         <li class="nav-item">
