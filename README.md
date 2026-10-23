@@ -1,5 +1,7 @@
 # jsharma-library
 
+FIT5032 Week 11–12 deploy app. GitHub Pages: https://jayrohitsharma.github.io/vue-project/
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
